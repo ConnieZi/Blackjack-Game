@@ -10,3 +10,6 @@
 2. Shuffle the discard pile when needed.
 3. Type in however many decks you want to play with.
 4. NewBlackjackGame is fun :)
+
+**This program is adapted from the project of CS0445 in University of Pittsburgh**
+
